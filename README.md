@@ -33,14 +33,14 @@ Web developer specializing in React.js with a strong background in building dyna
 - **E-Claim Insurance System**: Created a web-based system with document management and notification services.
 
 ## 📈 GitHub Stats
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinrahane&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinrahane&layout=compact)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nitinrahane)
 - [GitHub](https://github.com/nitinrahane)
 - [Personal Website](https://nitinrahane.com)
-- [Email](mailto:nitin.rahane11@gmail.com)
+- [Email](mailto:contact@nitinrahane.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=nitinrahane)
 
