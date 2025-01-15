@@ -1,6 +1,6 @@
 # Hello, I'm Nitin Rahane! 👋
 
-Web developer specializing in React.js with a strong background in building dynamic, responsive web applications.
+I am a web developer specializing in React.js. .Net and Azure, and I have a strong background in building dynamic, responsive web applications.
 
 ![Profile Image](https://nitinrahane.com/logo1.png)
 
